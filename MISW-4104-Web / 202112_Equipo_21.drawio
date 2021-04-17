@@ -1,1 +1,707 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T18:58:36.294Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 OPR/75.0.3969.93" etag="JXt5ENBz9YSJwQJB7t5n" version="14.6.0" type="github"><diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">7VzRcps4FP0aP8YDko3xY+3U3c50u9mtt50+dWSQbU0AMUKO7f36lYTABik2yZTgJCYPhgsRcM+5V+joQg9O490nhtL1nzTEUQ844a4Hb3sAuL7niB9p2WuLO9CWFSOhth0M38h/WBuLwzYkxFnlQE5pxElaNQY0SXDAKzbEGN1WD1vSqHrWFK2wYfgWoMi0/iAhX+dWH4wO9j8wWa2LM7veON8To+JgfSfZGoV0e2SCH3twyijl+Vq8m+JIeq/wS/5/s0f2lhfGcMKb/IM/9gD7++/bn/D7169L7weGd+mNbuUBRRt9w/pi+b7wQMYZvS9v3u3BSXknjtgIUbbGod5AEVklYj0Q14SZMKx5HB3+K5VNxruV5Eo/psH9Ju0L4DgiCWZZfyHhwuwHSVTzE6bpIFvOr2JKI8qAui7oOH6wXFZ3wXxXMJB/YlcsWp7jXe6fqWwSBxuWkQf8D86sjecNzNQi9izF1dnspvMLT2LG8e7IpMH4hGmMOduLQ4q9mhf76ub2wDLXHWrj+phiEGor0txelW0f4BcrmgFPYAMw2HAnwwM4boesQEmwlv5XWGhGuCMTG08tR6eL8JJboToZCY3x82r4AQt+FviA1xJ40ABvzbnMkh9ku2C23W77eIfiNMLCvfElIHoc4BeGrgur8HpmeAJbdLYG7+B8ppZ3R0TX9QUtcHRHM8IJla5aUM4F4M8FtGj2gz6G07TMmTW6nAH+QfTl9C5Ce3UKI+uWGD8v2QtkrYxZkiiytrVArOy7oZMbhNvEFnDaoFb5DNQ01Q/HbWV6z2DTLaOpIEdisIrRTRIqorjHztQdojsDs4EBZkITXCVRLZyHY2/kO2Y4H2cB1TOnKCDJ6ovae1s47veH+9ipZ/ORgdHYghCELQE0avBgpuONM4KSlbROQiIecHTUZ3Qjr7yOWOn504g187P3VD+7FS87/aEZCcD0sj4NwxHi4tmt0pTN8/r0d5SIqy/PfQOqGN/UsKPLZYa5gVx5E88H079GW4UFo/GFRdv4VUSb/1Q/v89oK3h7DbdipOJfWLi5TWSH7uOtJNI14E7DaeoG7zvghqNLCzhTHLjIgANP9fQ7DThTDJgrryRidH864oyB/hNDbamWWmwBkxdikD19RCn9TQKNMxieDTLfe8kgMwfV87VUT8OenJ+IU5TsDXS4Uqcr+pkNkGPvapOBZF2niUkYqjDergnH30Tuk+fcMiTlmwMr6uIbNEF3HM+bTtsEc1BLmNAikTg2ua0tgcRtMAC3aGSPSm8GWpE8coKC+5WCwhZiTYQ3YBPSRPA5M+ek4FcX6wjNRn0S0ESrdL/Eqjh/hvIb6Zwhg1qyhcBkCLTp7e6oNYqYw3qDIpcpyaoNEmT9jMjpgM+Bgtig0VgtFwB+fQDjOyb4Vv20NegbCAZX6H+LVHRp0ANTXbhC3wr0/sVB30C2uELfSsIfdw29KXFcoX+ZhN859A20kyv0rST8zqF/tUUXrw36esIf+11DP7xC303C7x56U8e7Qv8iCb976JuU3bRbJ7nYCAYlWT/eRJxM1IZVXTfK4fI9ZdXbcemzOG6zOGx0DTtwBtV+3lIQB6xqr9sa8KaWN1/jDJfKPcFZD3iR1OoXTKyt5Bpnm0xOCG2yl2aJtSjaM7GsTtfoy5Pt2uYEGuJdBknjikcI+14zhP1BWwA3KfHpADNwqZi5oCFkA9ASZPDVPoLFiMmfiKiJuhP97yNzpp0l6LJC2dIR20uUW5uAK2YAm5QsMPXmV92dZRwZAGC11NnRdbc4APUJbcssKLSGYGsgmIrn5N/5/K+v56BoOol9JhUCd+zNYD1yGwJQMug8AkcOHg1f0r+mrPgm/bur+rYzd5tS3lt2d5mwO/O3qZ+9ZX8D0DW/GygXhadJrN58Pv/Uc/YRq0ElizrZhyzN39BWT1/FxpLsJDITfT231ZcWgzCBqixlSZIQs/zFxVmIOBI/qlxF/KYYR2r95oFGst+dSeLPvpDkHoefkxsX+P00WV3iA1chhBgFo9CkErT0/K29Cgyf8ALS26fSTIy5FpTevwIqjcHFUalBndT7odJ8S7gYb74GJnWZlDK8j9GDv5r8pMF3+OsWD3ZTy/cJQoNJZkFt80JZJj8KgRaqKUmHVBZ8q5sYTnpDKZ2iDaf6wxFuFSJYvLQ+QzGJpMvmaE1jdAbgxz8uYQDVFOMTJdM1QC2668CC5zPkdrF5+LJJXvZ++EAM/Pg/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-17T00:19:50.137Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 OPR/75.0.3969.93" etag="IAIm0SQWqHhccJBXjEe-" version="14.6.0" type="github" pages="4">
+  <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
+    <mxGraphModel dx="1296" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8962rQQDY3VNNf6We3Pp-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="1150" height="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-3" value="https://www.example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry y="1310" width="1150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="960" y="1350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Twitter-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="1010" y="1350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry y="210" width="630" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="630" y="210" width="260" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="890" y="210" width="260" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="630" y="520" width="260" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="890" y="520" width="260" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-39" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="20" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-40" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="26" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-41" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="640" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-42" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="646" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-43" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="900" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-44" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="906" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-45" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="640" y="530" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-46" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="646" y="560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-47" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="906" y="532" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-48" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="912" y="562" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-49" value="&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=46;fontFamily=Comic Sans MS;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="20" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-62" value="Top 21 Albumes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="820" y="870" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-63" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="691" y="910" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-64" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="691" y="1020" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="691" y="1130" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-68" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="799" y="950" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-69" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="799" y="1055" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-70" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="799" y="1169" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-71" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1079" y="950" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-72" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1079" y="1055" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-73" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1079" y="1159" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-75" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="20" y="920" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-76" value="Los más escuchados" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="20" y="870" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-77" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="234" y="920" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-78" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="446" y="920" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-79" value="Nombre de Artista" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="26" y="1129" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-80" value="Album" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="32" y="1159" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-81" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="200" y="1140" width="10" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-84" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="408" y="1140" width="10" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-87" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="620" y="1140" width="10" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-88" value="Nombre de Artista" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="234" y="1129" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-89" value="Nombre de Artista" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="446" y="1129" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-90" value="Album" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="240" y="1159" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-91" value="Album" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="450" y="1159" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-1" value="Logo" style="html=1;shadow=0;dashed=0;fillColor=#343A40;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry y="120" width="1150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-2" value="Albumes" style="fillColor=none;strokeColor=none;fontSize=14;align=center;fontColor=#999999;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="130" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-3" value="Artistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-4" value="Coleccionistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-5" value="Premios" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="350" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-6" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#1CA5B8;strokeColor=#1CA5B8;fillColor=none;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-7" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvByvS867KcYr4WpOXlT-8" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="vvByvS867KcYr4WpOXlT-1">
+          <mxGeometry x="50.00000000000023" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz0r3bm4XR12PS-rSr7E-55" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.playbackControls;strokeColor=#999999;fillColor2=#99ddff;strokeColor2=none;fillColor3=#ffffff;strokeColor3=none;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1410" width="1155" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EEP8HIsHorbYtupDjnmy" name="Page-2">
+    <mxGraphModel dx="1512" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="vlSzJiF4fYFxw2f43Nn0-0" />
+        <mxCell id="vlSzJiF4fYFxw2f43Nn0-1" parent="vlSzJiF4fYFxw2f43Nn0-0" />
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="vlSzJiF4fYFxw2f43Nn0-1">
+          <mxGeometry y="40" width="1155" height="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-1" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-2" value="https://www.example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry y="1310" width="1150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="960" y="1350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Twitter-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="1010" y="1350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-52" value="&lt;font style=&quot;font-size: 29px&quot;&gt;Albumes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="40" y="270" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="40" y="340" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="318.70967741935476" y="340" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-14" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="51.61290322580645" y="352.17391304347825" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-15" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="58.58064516129032" y="388.695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-18" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="330.3225806451612" y="352.17391304347825" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-19" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="337.29032258064507" y="388.695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="597.4193548387095" y="340" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-55" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="609.0322580645162" y="352.17391304347825" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-56" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="615.9999999999999" y="388.695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="40" y="632.1739130434783" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-58" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="51.61290322580645" y="644.3478260869565" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-59" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="58.58064516129032" y="680.8695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-60" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="318.70967741935476" y="632.1739130434783" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-61" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="330.3225806451612" y="644.3478260869565" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-62" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="337.29032258064507" y="680.8695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-63" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="597.4193548387095" y="632.1739130434783" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-64" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="609.0322580645162" y="644.3478260869565" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-65" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="615.9999999999999" y="680.8695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-66" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="876.1290322580643" y="340" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-67" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="887.7419354838709" y="352.17391304347825" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-68" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="894.7096774193545" y="388.695652173913" width="46.451612903225794" height="12.173913043478258" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-69" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="876.1290322580643" y="632.1739130434783" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-70" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="887.7419354838709" y="644.3478260869565" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-71" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="894.7096774193545" y="680.8695652173913" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-73" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="988.06" y="458.90999999999997" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-75" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="40" y="930.0039130434782" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-76" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="51.61290322580645" y="942.1778260869564" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-77" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="58.58064516129032" y="978.6995652173912" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-78" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="318.70967741935476" y="930.0039130434782" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-79" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="330.3225806451612" y="942.1778260869564" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-80" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="337.29032258064507" y="978.6995652173912" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-81" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="597.4193548387095" y="930.0039130434782" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-82" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="609.0322580645162" y="942.1778260869564" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-83" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="615.9999999999999" y="978.6995652173912" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-84" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="876.1290322580643" y="930.0039130434782" width="243.87096774193543" height="267.8260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-85" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="887.7419354838709" y="942.1778260869564" width="174.19354838709674" height="36.52173913043479" as="geometry" />
+        </mxCell>
+        <mxCell id="FbO42UpmR28Zc_vIXmoK-86" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry x="894.7096774193545" y="978.6995652173912" width="46.451612903225794" height="24.347826086956516" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4_Pay-gllbXlwz08HRJ-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.playbackControls;strokeColor=#999999;fillColor2=#99ddff;strokeColor2=none;fillColor3=#ffffff;strokeColor3=none;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry y="1390" width="1155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-12" value="Logo" style="html=1;shadow=0;dashed=0;fillColor=#343A40;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="FbO42UpmR28Zc_vIXmoK-0">
+          <mxGeometry y="130" width="1150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-13" value="Albumes" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#ffffff;align=center;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="130" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-14" value="Artistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-15" value="Coleccionistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-16" value="Premios" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="350" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-17" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#1CA5B8;strokeColor=#1CA5B8;fillColor=none;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luIw7PSEHEcJpd-uRfj3-18" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zBHurEfAOiig9jhTNBAb-0" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="luIw7PSEHEcJpd-uRfj3-12">
+          <mxGeometry x="50.00000000000023" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mnLMwPONVPX83XXLqhsN" name="Page-3">
+    <mxGraphModel dx="1512" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WPtUrjV3Y1llqQr3tWeo-0" />
+        <mxCell id="WPtUrjV3Y1llqQr3tWeo-1" parent="WPtUrjV3Y1llqQr3tWeo-0" />
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-0" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Logo&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="WPtUrjV3Y1llqQr3tWeo-1">
+          <mxGeometry x="10" y="50" width="1160" height="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-1" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-2" value="https://www.example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry y="1040" width="1160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="960" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Twitter-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="1010" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-13" value="Albumes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="40" y="450" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.playbackControls;strokeColor=#999999;fillColor2=#99ddff;strokeColor2=none;fillColor3=#ffffff;strokeColor3=none;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry y="1139" width="1160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-54" value="" style="group" vertex="1" connectable="0" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="40" y="520" width="680" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry width="206.9565217391304" height="205.65217391304344" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="236.52173913043475" width="206.9565217391304" height="205.65217391304344" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-16" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="9.855072463768115" y="9.347826086956514" width="147.82608695652175" height="28.043478260869563" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-17" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="15.768115942028986" y="37.39130434782606" width="39.42028985507246" height="18.695652173913036" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-18" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="246.37681159420288" y="9.347826086956514" width="147.82608695652175" height="28.043478260869563" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-19" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="252.28985507246378" y="37.39130434782606" width="39.42028985507246" height="18.695652173913036" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="473.0434782608695" width="206.9565217391304" height="205.65217391304344" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-21" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="482.89855072463774" y="9.347826086956514" width="147.82608695652175" height="28.043478260869563" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-22" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="488.8115942028985" y="37.39130434782606" width="39.42028985507246" height="18.695652173913036" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry y="224.34782608695645" width="206.9565217391304" height="205.65217391304344" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-24" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="9.855072463768115" y="233.69565217391303" width="147.82608695652175" height="28.043478260869563" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-25" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="15.768115942028986" y="261.73913043478257" width="39.42028985507246" height="18.695652173913036" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="236.52173913043475" y="224.34782608695645" width="206.9565217391304" height="205.65217391304344" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-27" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="246.37681159420288" y="233.69565217391303" width="147.82608695652175" height="28.043478260869563" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-28" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="252.28985507246378" y="261.73913043478257" width="39.42028985507246" height="18.695652173913036" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-29" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="473.0434782608695" y="224.34782608695645" width="206.9565217391304" height="205.65217391304344" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-30" value="Nombre de Album" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="482.89855072463774" y="233.69565217391303" width="147.82608695652175" height="28.043478260869563" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-31" value="Artista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="488.8115942028985" y="261.73913043478257" width="39.42028985507246" height="18.695652173913036" as="geometry" />
+        </mxCell>
+        <mxCell id="QLQ1w-50APlZS0zG9pgi-38" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-54">
+          <mxGeometry x="94.99578099838966" y="91.30589285714282" width="16.972624798711756" height="23.035714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-0" value="Top 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="880" y="460" width="241" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="751" y="520" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="751" y="630" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="751" y="740" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-4" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="859" y="560" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-5" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="859" y="665" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-6" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="859" y="779" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-7" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="1121" y="560" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-8" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="1121" y="665" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-9" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="1121" y="769" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="751" y="850" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-11" value="&lt;b&gt;Titulo Album&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Nombre Artista&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;3 Grammy Latinos 2020&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="859" y="889" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-12" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#66B2FF;fontFamily=Helvetica;fontSize=24;align=left;fillColor=#66B2FF;strokeColor=none;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="1121" y="879" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=24;fontColor=#66B2FF;fillColor=#ffffff;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="50" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-16" value="Nombre del artista" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;fontStyle=1" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="180" y="270" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Pop&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;i&gt;9 albumes&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="180" y="350" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-18" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.87) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam tu hanc copiosiorem etiam soles dicere. Nihil illinc huc pervenit.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=24;fontColor=#66B2FF;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="180" y="300" width="870" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NqxxO3Ndb0Rh4zFJJlty-19" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=24;fontColor=#66B2FF;fillColor=#ffffff;align=left;strokeColor=#E6E6E6;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="249" y="410" width="590" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-0" value="Logo" style="html=1;shadow=0;dashed=0;fillColor=#343A40;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="QLQ1w-50APlZS0zG9pgi-0">
+          <mxGeometry x="5" y="120" width="1150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-1" value="Albumes" style="fillColor=none;strokeColor=none;fontSize=14;align=center;fontColor=#999999;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="130" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-2" value="Artistas" style="fillColor=none;strokeColor=none;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-3" value="Coleccionistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-4" value="Premios" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="350" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-5" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#1CA5B8;strokeColor=#1CA5B8;fillColor=none;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-6" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhbTuLNg9zgA8kC0y3uz-7" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="uhbTuLNg9zgA8kC0y3uz-0">
+          <mxGeometry x="50.00000000000023" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="atxh-V9TT_aJrcasBgLB" name="Page-4">
+    <mxGraphModel dx="1512" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-0" />
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-1" parent="jtdyp-sGzAW_JEBSrnUy-0" />
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=none;fontColor=#999999;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-1">
+          <mxGeometry x="10" y="50" width="1160" height="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-4" value="https://www.example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry y="1040" width="1160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="960" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Twitter-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="1010" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.playbackControls;strokeColor=#999999;fillColor2=#99ddff;strokeColor2=none;fillColor3=#ffffff;strokeColor3=none;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry y="1139" width="1160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-37" value="Premios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=32;fontStyle=1" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry y="280" width="241" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="31.75" y="360" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-41" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="139.75" y="390" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="31.75" y="480" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-58" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="139.75" y="510" width="221" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-59" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="31.75" y="590" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-60" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="139.75" y="620" width="221" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-61" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="31.75" y="700" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jtdyp-sGzAW_JEBSrnUy-62" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="139.75" y="730" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;direction=north;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=32;fontColor=#66B2FF;fillColor=#ffffff;strokeColor=#E6E6E6;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="358.25" y="370" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="416.75" y="360" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-13" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="524.75" y="390" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="416.75" y="480" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-15" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="524.75" y="510" width="221" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="416.75" y="590" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-17" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="524.75" y="620" width="221" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="416.75" y="700" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-19" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="524.75" y="730" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;direction=north;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=32;fontColor=#66B2FF;fillColor=#ffffff;strokeColor=#E6E6E6;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="779.75" y="370" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="838.25" y="360" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-22" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="946.25" y="390" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="838.25" y="480" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-24" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="946.25" y="510" width="221" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="838.25" y="590" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-26" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="946.25" y="620" width="221" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-27" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="838.25" y="700" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lov1r-2vA4AnNuQZ39wC-28" value="&lt;b&gt;Titulo Premio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="946.25" y="730" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0GZ-y7xsBQeyDxdIkUEN-12" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=32;align=left;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="550" y="830" width="75" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0GZ-y7xsBQeyDxdIkUEN-13" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;fontSize=12;" vertex="1" parent="0GZ-y7xsBQeyDxdIkUEN-12">
+          <mxGeometry width="25" height="25" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0GZ-y7xsBQeyDxdIkUEN-14" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=12;" vertex="1" parent="0GZ-y7xsBQeyDxdIkUEN-12">
+          <mxGeometry width="25" height="25" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0GZ-y7xsBQeyDxdIkUEN-15" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=12;" vertex="1" parent="0GZ-y7xsBQeyDxdIkUEN-12">
+          <mxGeometry x="1" width="25" height="25" relative="1" as="geometry">
+            <mxPoint x="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-0" value="Logo" style="html=1;shadow=0;dashed=0;fillColor=#343A40;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="jtdyp-sGzAW_JEBSrnUy-2">
+          <mxGeometry x="5" y="120" width="1150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-1" value="Albumes" style="fillColor=none;strokeColor=none;fontSize=14;align=center;fontColor=#999999;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="130" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-2" value="Artistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-3" value="Coleccionistas" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-4" value="Premios" style="fillColor=none;strokeColor=none;fontSize=14;align=center;fontColor=#FFFFFF;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="350" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-5" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#1CA5B8;strokeColor=#1CA5B8;fillColor=none;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-6" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CufX3EdvlWPKqTP5sKGA-7" value="Home" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="CufX3EdvlWPKqTP5sKGA-0">
+          <mxGeometry x="50.00000000000023" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
